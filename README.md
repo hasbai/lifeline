@@ -10,6 +10,8 @@
 
 一个结合传统八字命理与现代金融数据可视化的 AI 命运分析工具
 
+<img src="doc/官网1.png" alt="官网首页" width="100%"/>
+
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -31,19 +33,31 @@
 
 <div align="center">
 
-**官网首页**
+<table>
+<tr>
+<td width="33%">
 
-访问应用时，首先会看到简洁优雅的官网介绍页面，展示核心功能和产品特色。
+**首页界面**
 
-<img src="doc/首页.png" alt="首页" width="800"/>
+<img src="doc/首页.png" alt="首页" width="100%"/>
+
+</td>
+<td width="33%">
 
 **八字排盘**
 
-<img src="doc/八字排盘.png" alt="八字排盘" width="800"/>
+<img src="doc/八字排盘.png" alt="八字排盘" width="100%"/>
+
+</td>
+<td width="33%">
 
 **K线分析**
 
-<img src="doc/k线.png" alt="K线分析" width="800"/>
+<img src="doc/k线.png" alt="K线分析" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 

@@ -10,6 +10,8 @@
 
 An AI-powered destiny analysis tool combining traditional Chinese BaZi numerology with modern financial data visualization
 
+<img src="doc/官网1.png" alt="Official Website" width="100%"/>
+
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -31,19 +33,31 @@ Life K-Line is an innovative destiny analysis application that combines traditio
 
 <div align="center">
 
-**Official Landing Page**
+<table>
+<tr>
+<td width="33%">
 
-When you first visit the application, you'll see an elegant landing page showcasing core features and product highlights.
+**Homepage**
 
-<img src="doc/首页.png" alt="Homepage" width="800"/>
+<img src="doc/首页.png" alt="Homepage" width="100%"/>
+
+</td>
+<td width="33%">
 
 **BaZi Charting**
 
-<img src="doc/八字排盘.png" alt="BaZi Charting" width="800"/>
+<img src="doc/八字排盘.png" alt="BaZi Charting" width="100%"/>
+
+</td>
+<td width="33%">
 
 **K-Line Analysis**
 
-<img src="doc/k线.png" alt="K-Line Analysis" width="800"/>
+<img src="doc/k线.png" alt="K-Line Analysis" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
