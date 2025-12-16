@@ -115,7 +115,14 @@ VITE_BASE_URL=
 4. **启动开发服务器**
 ```bash
 npm run dev
+
+# 或者使用pm2启动
+# 安装pm2
+#  npm install -g pm2
+ pm2 start ecosystem.config.js --only life-destiny-k-line-prod
 ```
+
+
 
 5. **访问应用**
 
